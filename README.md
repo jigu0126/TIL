@@ -1,5 +1,5 @@
-## Security 공부 일지
-현재 공부 중인 것 (Now I'm learning)
+## 보안 공부 일지 (Security study journal)
+현재 공부 중인 것 (Currently studying)
 - 웹 해킹 (Web Hacking)
 - 네트워크 (Network)
 - 패킷 분석 (Packet Analysis)
