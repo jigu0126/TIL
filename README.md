@@ -1,4 +1,7 @@
 ## Security 공부 일지
-현재 공부 중인 것
-- 네트워크
-- 웹 해킹
+현재 공부 중인 것 (Now I'm learning)
+- 웹 해킹 (Web Hacking)
+- 네트워크 (Network)
+- 패킷 분석 (Packet Analysis)
+- 레지스터 (Register)
+- 어셈블리어 (Assembly)
